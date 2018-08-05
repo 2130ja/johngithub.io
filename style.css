@@ -1,0 +1,32 @@
+body{
+    background:red;
+    font-family: 'Modern Antiqua', cursive;
+
+    }
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.me{
+    width:20%;
+   
+}
+.mid{
+    
+    color:white;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+h1{
+   color:blue; 
+}
+h2{
+    color: green;
+}
